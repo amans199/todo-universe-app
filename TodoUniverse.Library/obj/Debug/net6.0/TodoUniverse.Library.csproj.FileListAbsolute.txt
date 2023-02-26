@@ -1,0 +1,12 @@
+C:\study-projects\2022\practice\TodoUniverse.Library\bin\Debug\net6.0\TodoUniverse.Library.deps.json
+C:\study-projects\2022\practice\TodoUniverse.Library\bin\Debug\net6.0\TodoUniverse.Library.dll
+C:\study-projects\2022\practice\TodoUniverse.Library\bin\Debug\net6.0\TodoUniverse.Library.pdb
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\TodoUniverse.Library.csproj.AssemblyReference.cache
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\TodoUniverse.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\TodoUniverse.Library.AssemblyInfoInputs.cache
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\TodoUniverse.Library.AssemblyInfo.cs
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\TodoUniverse.Library.csproj.CoreCompileInputs.cache
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\TodoUniverse.Library.dll
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\refint\TodoUniverse.Library.dll
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\TodoUniverse.Library.pdb
+C:\study-projects\2022\practice\TodoUniverse.Library\obj\Debug\net6.0\ref\TodoUniverse.Library.dll
